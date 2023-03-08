@@ -14,7 +14,7 @@
 
 ### Music Playing 🎧
 
-[![Music](https://novatorem.bgstatic.vercel.app/api/spotify)]
+![Music](https://novatorem.bgstatic.vercel.app/api/spotify)
 
 ---
 
