@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Music Playing 🎧
+## Music Playing 🎧
 
 ![Music](https://novatorem.bgstatic.vercel.app/api/spotify)
 
@@ -20,7 +20,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### 📝 Contact with me
+## 📝 Contact with me
 <p align="center">
     <a href="mailto:quenhon2002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/ChauCongTu"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -90,7 +90,31 @@
 
 ---
 
-### 📝 Stats
+## 📝 Profile Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ChauCongTu&theme=gotham&show_icons=true)](https://github.com/ChauCongTu/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChauCongTu&layout=compact&theme=gotham)](https://github.com/ChauCongTu/)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChauCongTu&theme=gotham&show_icons=true" height="230px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauCongTu&layout=compact&theme=gotham" height="230px"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauCongTu&theme=gotham" height="230px"/>
+</p>
+
+---
+
+## 📝 Contribute Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChauCongTu&theme=github" height="230px"/>
+</p>
+
+---
+
+## 📝 Git Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChauCongTu&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" height="230px"/>
+</p>
+
+---
