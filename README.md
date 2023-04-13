@@ -50,8 +50,6 @@
 <p align="center"> 
     &emsp; <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
     &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
-    &emsp; <img alt="Asp.net" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=.net&logoColor=white">
-    &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
     &emsp; <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
     &emsp; <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
  </p>
