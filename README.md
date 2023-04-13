@@ -33,7 +33,11 @@
 
 ## 🛠️ My Skills
 
-###  Backend
+ <p align="center">
+    <b>
+        Backend
+    </b>
+ </p>
 
 <p align="center"> 
     &emsp; <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
@@ -44,7 +48,11 @@
     &emsp; <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
  </p>
 
- ###  Frontend
+ <p align="center">
+    <b>
+        Frontend
+    </b>
+ </p>
 
 <p align="center"> 
     &emsp; <img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -52,7 +60,11 @@
     &emsp; <img alt="Js" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
  </p>
 
- ###  Framework
+ <p align="center">
+    <b>
+        Framework
+    </b>
+ </p>
 
 <p align="center"> 
     &emsp; <img alt="Asp.net" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=.net&logoColor=white">
@@ -60,8 +72,11 @@
     &emsp; <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
     &emsp; <img alt="JQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
  </p>
- 
-  ###  Tools & IDEs
+ <p align="center">
+    <b>
+        Tools & IDEs
+    </b>
+ </p>
 
 <p align="center"> 
     &emsp; <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=plastic&logo=visual-studio&logoColor=white">
