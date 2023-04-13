@@ -33,13 +33,44 @@
 
 ## 🛠️ My Skills
 
-###  Programming languages
+###  Backend
 
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
+    &emsp; <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+    &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+    &emsp; <img alt="Asp.net" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=.net&logoColor=white">
+    &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+    &emsp; <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+    &emsp; <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
+ </p>
+
+ ###  Frontend
+
+<p align="center"> 
+    &emsp; <img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+    &emsp; <img alt="Css" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    &emsp; <img alt="Js" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+ </p>
+
+ ###  Framework
+
+<p align="center"> 
+    &emsp; <img alt="Asp.net" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=.net&logoColor=white">
+    &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+    &emsp; <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+    &emsp; <img alt="JQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
+ </p>
+ 
+  ###  Tools & IDEs
+
+<p align="center"> 
+    &emsp; <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=plastic&logo=visual-studio&logoColor=white">
+    &emsp; <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+    &emsp; <img alt="Git Hub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white">
+    &emsp; <img alt="Xampp" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=plastic&logo=xampp&logoColor=white">
+    &emsp; <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D22128.svg?style=plastic&logo=apache&logoColor=white">
+    &emsp; <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=plastic&logo=android&logoColor=white">
+    &emsp; <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=white">
  </p>
 
 ---
