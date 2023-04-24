@@ -20,7 +20,7 @@
 
 ## 📲 Contact with me
 <p align="center">
-    <a href="mailto:quenhon2002@gmail.com">
+    <a href="mailto:quenhon.dev@gmail.com">
         <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://github.com/ChauCongTu">
