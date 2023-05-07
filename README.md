@@ -4,9 +4,11 @@
 
 ## I'm a Web Programming Students
 
-- 👨‍💻 I am currently studying information technology at University of Transpot and Communications (UTC2).
-- 📚 I’m currently learning about Frontend and Backend Web Developer 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 Currently, I am studying Information Technology at the University of Transport and Communications (UTC2).
+
+- 📚 I am currently learning about Frontend and Backend Web Development.
+
+- 💪🏼 My future goals include acquiring more knowledge about new technologies and never cease to come up with innovative ideas.
 
 ---
 
