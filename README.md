@@ -101,9 +101,9 @@
 
 ## 📝 Profile Stats
 
-<p align="center" style="width:100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChauCongTu&theme=gotham&show_icons=true" width="70%" height="230px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauCongTu&layout=compact&theme=gotham" width="30%" height="230px"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChauCongTu&theme=gotham&show_icons=true" height="230px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauCongTu&layout=compact&theme=gotham" height="230px"/>
 </p>
 
 <p align="center">
