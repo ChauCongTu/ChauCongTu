@@ -91,7 +91,7 @@
 <p align="center"> 
     &emsp; <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=plastic&logo=visual-studio&logoColor=white">
     &emsp; <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-    &emsp; <img alt="Git Hub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white">
+    &emsp; <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-%2318171E.svg?style=plastic&logo=git&logoColor=%23F05032&labelColor=%2318171E&logoWidth=20" />
     &emsp; <img alt="Xampp" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=plastic&logo=xampp&logoColor=white">
     &emsp; <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D22128.svg?style=plastic&logo=apache&logoColor=white">
     &emsp; <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=plastic&logo=android&logoColor=white">
