@@ -80,6 +80,7 @@
     &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
     &emsp; <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
     &emsp; <img alt="JQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
+    &emsp; <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=plastic-square&logo=react&logoColor=white" />
  </p>
  <p align="center">
     <b>
