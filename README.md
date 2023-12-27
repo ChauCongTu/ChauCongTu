@@ -6,17 +6,9 @@
 
 - 👨‍💻 Currently, I am studying Information Technology at the University of Transport and Communications (UTC2).
 
-- 📚 I am currently learning about Frontend and Backend Web Development.
+- 📚 I am currently learning about Fullstack Web Development.
 
 - 💪🏼 My future goals include acquiring more knowledge about new technologies and never cease to come up with innovative ideas.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## 🎧 Music Playing
-
-![Music](https://novatorem.bgstatic.vercel.app/api/spotify)
 
 ---
 
@@ -43,45 +35,59 @@
 
 ## 🛠️ My Skills
 
- <p align="center">
-    <b>
-        Backend
-    </b>
- </p>
-
-<p align="center"> 
-    &emsp; <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-    &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
-    &emsp; <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
-    &emsp; <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
-    
- </p>
-
- <p align="center">
+<p align="center">
     <b>
         Frontend
     </b>
  </p>
+<p align="center">
+  &emsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  &emsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  &emsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  &emsp; <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-<p align="center"> 
-    &emsp; <img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-    &emsp; <img alt="Css" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-    &emsp; <img alt="Js" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
- </p>
-
- <p align="center">
+<p align="center">
     <b>
-        Framework
+        Backend
     </b>
  </p>
+<p align="center">
+  &emsp; <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  &emsp; <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  &emsp; <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  &emsp; <img src="https://img.shields.io/badge/Web%20Service-4285F4?style=for-the-badge&logo=webcomponents&logoColor=white" alt="Web Service" />
+  &emsp; <img src="https://img.shields.io/badge/Restful%20API-61DAFB?style=for-the-badge&logo=&logoColor=white" alt="Restful API" />
+  &emsp; <img src="https://img.shields.io/badge/Deploy-2E7D32?style=for-the-badge&logo=&logoColor=white" alt="Deploy" />
+  &emsp; <img src="https://img.shields.io/badge/Server-1976D2?style=for-the-badge&logo=&logoColor=white" alt="Server" />
+</p>
 
-<p align="center"> 
-    &emsp; <img alt="Asp.net" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=.net&logoColor=white">
-    &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
-    &emsp; <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
-    &emsp; <img alt="JQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
-    &emsp; <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=plastic-square&logo=react&logoColor=white" />
+<p align="center">
+    <b>
+        Database
+    </b>
  </p>
+<p align="center">
+  &emsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  &emsp; <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=&logoColor=white" alt="SQL Server" />
+</p>
+
+<p align="center">
+    <b>
+        Framework/Library
+    </b>
+ </p>
+<p align="center">
+  &emsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  &emsp; <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  &emsp; <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
+  &emsp; <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  &emsp; <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  &emsp; <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  &emsp; <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET" />
+</p>
+
+
  <p align="center">
     <b>
         Tools & IDEs
